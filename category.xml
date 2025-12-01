@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="AI Code Analysis Update Site" url="https://genobj.github.io/pollux-ai-code-analysis/update-site/">
+      Pollux AI Code Analysis 플러그인 업데이트 사이트입니다.
+   </description>
+   <feature url="features/ai.pollux.code.analysis.feature_1.0.0.jar" id="ai.pollux.code.analysis.feature" version="1.0.0">
+      <category name="ai.pollux.code.analysis.category"/>
+   </feature>
+   <category-def name="ai.pollux.code.analysis.category" label="AI Code Analysis">
+      <description>
+         AI 기반 코드 분석 도구
+      </description>
+   </category-def>
+</site>
