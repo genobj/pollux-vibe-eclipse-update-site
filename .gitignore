@@ -1,0 +1,22 @@
+# Eclipse Update Site - .gitignore
+# 이 Repository는 배포용이므로 대부분의 파일을 추적해야 합니다.
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# Eclipse 프로젝트 파일 (선택적)
+# .project
+# .settings/
+
+# 로그 파일
+*.log
+logs/
+logs.zip
+logs_extracted/
+
+# 임시 파일
+*.tmp
+*.bak
+*~
+
